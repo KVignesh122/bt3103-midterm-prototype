@@ -2,6 +2,8 @@
 
 NutriNUS is a Vue.js web application that helps university students plan healthy meals for their busy academic lifestyle. This interactive app generates personalized 5-day meal plans with healthy recipes, including details like ingredients, calories, proteins, carbohydrates, and fats. The app also allows users to update their meals as per their preferences.
 
+<img src="https://github.com/user-attachments/assets/9d27486f-2d7b-499f-8ea7-94bcbe5108b7" alt="NutriNUS Meal Plan Generator" width="600" height="400"/>
+
 ## Features
 - **5-Day Meal Plan Generation**: Automatically generate balanced meal plans for breakfast, lunch, dinner, and snacks.
 - **Nutritional Information**: Hover over meal items to view detailed nutritional information including ingredients, calories, protein, carbs, and fats.
