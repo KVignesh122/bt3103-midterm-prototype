@@ -1,0 +1,29 @@
+{
+  "name": "openai-test",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist -b gh-pages-new"
+  },
+  "dependencies": {
+    "@mdi/font": "7.4.47",
+    "dotenv": "^16.4.5",
+    "openai": "^4.64.0",
+    "roboto-fontface": "*",
+    "vue": "^3.4.31",
+    "vuetify": "^3.6.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "gh-pages": "^6.1.1",
+    "sass": "1.77.6",
+    "unplugin-fonts": "^1.1.1",
+    "unplugin-vue-components": "^0.27.2",
+    "vite": "^5.3.3",
+    "vite-plugin-vuetify": "^2.0.3"
+  },
+  "homepage": "https://KVignesh122.github.io/bt3103-midterm-prototype"
+}
